@@ -7,11 +7,11 @@ through web-scraping. 10 Stock prices fluctuating in both <b>[Most Actives Table
 application (LIVE) <br></br> [please see and compare the prices in the images below]
 
 This application is also capable of handling network connection, so if there is no wifi
-connection, then <br></br> the system will generate a toast message reminding users to find a
+connection, then the system will generate a toast message reminding users to find a
 network connection to see the stock prices. 
 
 This source code can be highly scaled up to the point where pretty much all the data that
-we see in <br></br> SNP500 or Dow jones or just about anything for that matter can be web-scraped
+we see in SNP500 or Dow jones or just about anything for that matter can be web-scraped
 and displayed on <br></br> any mobile device. [This is the purpose of this particular demo application]
 
 Thank you for reading! <br></br><br></br>
