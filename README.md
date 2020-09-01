@@ -18,7 +18,7 @@ and displayed on any mobile device. [This is the purpose of this particular demo
 Thank you for reading! 
 
 <b>[Most Actives Table]</b> <br></br>
-![1-page](https://user-images.githubusercontent.com/26533575/91900748-2421b280-ec6d-11ea-8028-d8f7000d1e41.jpg) 
+![1-page](https://user-images.githubusercontent.com/26533575/91901731-a65ea680-ec6e-11ea-896a-34115aded327.jpg)
 <br></br>
 <b>[Gainers Table]</b><br></br>
-![2-page](https://user-images.githubusercontent.com/26533575/91900753-271ca300-ec6d-11ea-9da1-1f0582ec68bd.jpg) 
+![2-page](https://user-images.githubusercontent.com/26533575/91901739-a8286a00-ec6e-11ea-9365-d6081a001235.jpg) 
