@@ -1,4 +1,4 @@
-This is an application that displays a list of ACTIVE stocks being traded in <b> SNP500
+This is an application that displays a list of ACTIVE stocks being traded in <b> SNP500 </b>
 (from <b>CNN Business</b>: https://money.cnn.com/data/hotstocks/sp1500/)
 
 I created this application independently and the core functionality has been done
