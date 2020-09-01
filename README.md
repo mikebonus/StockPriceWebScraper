@@ -19,6 +19,6 @@ Thank you for reading!
 
 <b>[Most Actives Table]</b>
 ![1-page](https://user-images.githubusercontent.com/26533575/91900748-2421b280-ec6d-11ea-8028-d8f7000d1e41.jpg) 
-... 
+</br>
 <b>[Gainers Table]</b
 ![2-page](https://user-images.githubusercontent.com/26533575/91900753-271ca300-ec6d-11ea-9da1-1f0582ec68bd.jpg) 
