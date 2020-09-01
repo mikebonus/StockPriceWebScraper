@@ -5,7 +5,8 @@ I created this application independently and the core functionality has been don
 through web-scraping. 
 
 10 Stock prices fluctuating in both <b>[Most Actives Table]</b> and <b>[Gainers Table]</b> from 
-the above link get automatically displayed in this application (LIVE). 
+the above link get automatically displayed in this application (LIVE) <br></br>
+[please see and compare the prices in the images below]
 
 This application is also capable of handling network connection, so if there is no wifi
 connection, then the system will generate a toast message reminding users to find a
@@ -17,7 +18,7 @@ and displayed on any mobile device. [This is the purpose of this particular demo
 
 Thank you for reading! <br></br><br></br>
 
-
+<img width="337" alt="abc" src="https://user-images.githubusercontent.com/26533575/91902554-e8d4b300-ec6f-11ea-9422-98b901025932.png"> <br></br>
 
 <b>[Most Actives Table]</b> <br></br>
 ![123](https://user-images.githubusercontent.com/26533575/91902468-c93d8a80-ec6f-11ea-82fd-0bace725e8b8.jpg)
