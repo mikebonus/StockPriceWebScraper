@@ -14,7 +14,7 @@ network connection to see the stock prices.
 
 This source code can be highly scaled up to the point where pretty much all the data that
 we see in <br></br> SNP500 or Dow jones or just about anything for that matter can be web-scraped
-and displayed on any mobile device. [This is the purpose of this particular demo application]
+and displayed on any mobile device. <br></br> [This is the purpose of this particular demo application]
 
 Thank you for reading! <br></br><br></br>
 <img width="768" alt="789" src="https://user-images.githubusercontent.com/26533575/91903171-cabb8280-ec70-11ea-928e-4e2242818580.png"> <br></br>
