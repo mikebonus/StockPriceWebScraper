@@ -1,4 +1,4 @@
-Stock Price Web Scraper for Native Android <b>[Kotlin]</b>
+<b> Stock Price Web Scraper for Native Android [Kotlin]</b>
 
 This is an application that displays a list of ACTIVE stocks being traded in <b> SNP500 </b> 
 (from <b>CNN Business</b>: https://money.cnn.com/data/hotstocks/sp1500/)
