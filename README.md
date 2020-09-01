@@ -12,7 +12,7 @@ This application is also capable of handling network connection, so if there is 
 connection, then the system will generate a toast message reminding users to find a
 network connection to see the stock prices. This source code can be highly scaled up to 
 the point where pretty much all the data that we see in SNP500 or Dow jones or just about 
-anything for that matter can be web-scraped and displayed on <br></br> any mobile device. 
+anything for that matter can be web-scraped and displayed on any mobile device. 
 [This is the purpose of this particular demo application]
 
 Thank you for reading! <br></br><br></br>
