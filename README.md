@@ -15,7 +15,7 @@ the point where pretty much all the data that we see in SNP500 or Dow jones or j
 anything for that matter can be web-scraped and displayed on any mobile device. 
 [This is the purpose of this particular demo application]
 
-Thank you for reading! <br></br><br></br>
+Thank you for reading! <br></br>
 <img width="768" alt="789" src="https://user-images.githubusercontent.com/26533575/91903171-cabb8280-ec70-11ea-928e-4e2242818580.png"> <br></br>
 
 <b>[Most Actives Table]</b> <br></br>
