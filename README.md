@@ -15,7 +15,7 @@ This source code can be highly scaled up to the point where pretty much all the 
 we see in SNP500 or Dow jones or just about anything for that matter can be web-scraped
 and displayed on any mobile device. [This is the purpose of this particular demo application]
 
-Thank you for reading! 
+Thank you for reading! <br></br><br></br>
 
 <b>[Most Actives Table]</b> <br></br>
 ![1-page](https://user-images.githubusercontent.com/26533575/91901731-a65ea680-ec6e-11ea-896a-34115aded327.jpg)
