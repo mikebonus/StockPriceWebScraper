@@ -2,11 +2,9 @@ This is an application that displays a list of ACTIVE stocks being traded in <b>
 (from <b>CNN Business</b>: https://money.cnn.com/data/hotstocks/sp1500/)
 
 I created this application independently and the core functionality has been done
-through web-scraping. 
-
-10 Stock prices fluctuating in both <b>[Most Actives Table]</b> and <b>[Gainers Table]</b> from 
-the above link get <br></br> automatically displayed in this application (LIVE) <br></br>
-[please see and compare the prices in the images below]
+through web-scraping. 10 Stock prices fluctuating in both <b>[Most Actives Table]</b> and 
+<b>[Gainers Table]</b> from the above link get <br></br> automatically displayed in this 
+application (LIVE) <br></br> [please see and compare the prices in the images below]
 
 This application is also capable of handling network connection, so if there is no wifi
 connection, then <br></br> the system will generate a toast message reminding users to find a
