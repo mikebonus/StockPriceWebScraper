@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1CB093</color>              <!-- light-green: #1CB093 -->
+    <color name="colorPrimaryDark">#1CB093</color>          <!-- pink: #e05891 -->
+    <color name="colorBlue">#1CB093</color>
+</resources>
