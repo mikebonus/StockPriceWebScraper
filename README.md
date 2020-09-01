@@ -5,7 +5,7 @@ I created this application independently and the core functionality has been don
 through web-scraping. 
 
 10 Stock prices fluctuating in both <b>[Most Actives Table]</b> and <b>[Gainers Table]</b> from 
-the above link get automatically displayed in this application (LIVE) <br></br>
+the above link get <br></br> automatically displayed in this application (LIVE) <br></br>
 [please see and compare the prices in the images below]
 
 This application is also capable of handling network connection, so if there is no wifi
