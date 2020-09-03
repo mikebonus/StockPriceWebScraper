@@ -24,7 +24,3 @@ Thank you for reading! <br></br>
 <br></br>
 <b>[Gainers Table]</b><br></br>
 ![456](https://user-images.githubusercontent.com/26533575/91902472-cb074e00-ec6f-11ea-97d6-fb0a2c7039d6.jpg)
-
-<br></br>
-<b>[Graph Displaying Result for Most Actives Table]</b><br></br>
-![grapher](https://user-images.githubusercontent.com/26533575/92067556-99c37680-ed72-11ea-991e-d7fc37a91d0b.jpg)
