@@ -8,8 +8,8 @@ Some of the technical problems I've solved are as follows (The source code is do
 <b>1.</b> I created this application independently and the core functionality has been done
 through web-scraping. 
 
-<b>2.</b> 10 Stock prices fluctuating in both <b>[Most Actives Table]</b> and 
-<b>[Gainers Table]</b> from the above link get automatically displayed in this 
+<b>2.</b> 10 Stock prices fluctuating in both <b>[Most Actives Table]</b> 
+from the above link get automatically displayed in this 
 application (LIVE)[See and compare the prices in the images below]
 
 <b>3.</b> This application is also capable of handling network connection, so if there is no wifi
@@ -29,11 +29,6 @@ Thank you for reading! <br></br>
 
 <b>[Most Actives Table]</b> <br></br>
 ![firster](https://user-images.githubusercontent.com/26533575/92069339-13f5fa00-ed77-11ea-8bfe-9a8fb327c7a4.jpg)
-
-<br></br>
-<b>[Gainers Table]</b><br></br>
-![456](https://user-images.githubusercontent.com/26533575/91902472-cb074e00-ec6f-11ea-97d6-fb0a2c7039d6.jpg)
-
 
 <br></br>
 <b>[Graph Displaying Result for Most Actives Table]</b><br></br>
