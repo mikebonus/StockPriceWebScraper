@@ -1,14 +1,8 @@
 package com.sampler.webscraper;
 
 import androidx.appcompat.app.AppCompatActivity;
-
-import android.content.Intent;
 import android.graphics.Color;
 import android.os.Bundle;
-import android.util.Log;
-import android.view.View;
-import android.widget.Button;
-
 import com.github.mikephil.charting.charts.BarChart;
 import com.github.mikephil.charting.components.XAxis;
 import com.github.mikephil.charting.data.BarData;
@@ -21,6 +15,7 @@ import java.util.ArrayList;
 
 public class GraphActivity extends AppCompatActivity {
 
+    // Bar-Chart
     BarChart barChart;
     BarData barData;
     BarDataSet barDataSet;
