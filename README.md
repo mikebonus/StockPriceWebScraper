@@ -5,18 +5,18 @@ This is an application that displays a list of ACTIVE stocks being traded in <b>
 
 Some of the technical problems I've solved are as follows (The source code is downloadable for testing!) 
 
-1. I created this application independently and the core functionality has been done
+<b>1.</b> I created this application independently and the core functionality has been done
 through web-scraping. 
 
-2. 10 Stock prices fluctuating in both <b>[Most Actives Table]</b> and 
+<b>2.</b> 10 Stock prices fluctuating in both <b>[Most Actives Table]</b> and 
 <b>[Gainers Table]</b> from the above link get automatically displayed in this 
 application (LIVE)[See and compare the prices in the images below]
 
-3. This application is also capable of handling network connection, so if there is no wifi
+<b>3.</b> This application is also capable of handling network connection, so if there is no wifi
 connection, then the system will generate a toast message reminding users to find a
 network connection to see the stock prices. 
 
-4. Graph has been adopted to display the results of the LIVE data changing
+<b>4.</b> Graph has been adopted to display the results of the LIVE data changing
 in order to visually present changing data for user convenience! 
 
 This source code can be highly scaled up to the point where pretty much all the data 
